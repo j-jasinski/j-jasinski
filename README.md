@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @j-jasinski
+- 👀 I’m interested in building useful software
+- 🌱 I’m currently learning how to program in a few languages
+- 💞️ I’m looking to collaborate on several projects
+- 📫 How to reach me : just DM me here
